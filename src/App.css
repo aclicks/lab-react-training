@@ -65,3 +65,7 @@ p {
 .CreditCard .type img {
   height: 20px;
 }
+
+.Rating {
+  font-size: 2rem;
+}
