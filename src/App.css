@@ -108,3 +108,8 @@ h2 {
 .right {
   line-height: 1rem;
 }
+
+button {
+  font-size: 1rem;
+  font-weight: bold;
+}
